@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Discord bot developer**, **web 
 ## 📬 How to Reach Me
 - 📧 Email: [haseebdigit@gmail.com](mailto:haseebdigit@gmail.com)
 - 💬 Discord: **Jone_137**
-- 🌐 Portfolio: [Comming soon]
+- 🌐 Portfolio: [Coming soon]
 
 
 ---
